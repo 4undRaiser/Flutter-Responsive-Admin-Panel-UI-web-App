@@ -1,5 +1,9 @@
 
 
+https://user-images.githubusercontent.com/87926451/131760122-4a34adfe-63a8-4618-ab8d-1fd039e15057.mp4
+
+
+
 # flutter_admin_panel_ui
 
 A new Flutter project.
